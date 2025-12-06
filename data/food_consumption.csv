@@ -1,0 +1,13 @@
+country,food_category,consumption,co2_emission
+United States,Beef,37.0,6.5
+United States,Pork,23.0,1.7
+United States,Chicken,50.0,1.0
+India,Beef,1.0,0.2
+India,Chicken,15.0,0.4
+India,Pork,5.0,0.3
+Brazil,Beef,25.0,5.0
+Brazil,Chicken,40.0,0.9
+Brazil,Pork,18.0,1.5
+Germany,Beef,20.0,3.4
+Germany,Pork,45.0,4.1
+Germany,Chicken,30.0,0.8
