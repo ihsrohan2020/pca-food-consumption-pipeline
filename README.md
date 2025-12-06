@@ -98,5 +98,13 @@ I built this project to practice structuring a reproducible data workflow—clea
 
 ---
 
+## Results & Takeaways
+
+- PCA reduced the original 11 food consumption features down to 2 principal components while retaining ~X% of the variance.
+- Clear country clusters emerged (e.g., high meat vs. high plant-based consumption), which I visualized in a 2D PCA scatter plot.
+- This project made me proud because I turned a messy CSV into a reproducible data pipeline with clear, interpretable visual output and documented each step so someone else can rerun it end-to-end.
+  
+---
+
 ## 📎 License  
 MIT License.
